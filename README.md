@@ -83,7 +83,12 @@ This is a library for css.
 - `.col-1` to `.col-12`: Column classes with responsive widths.
 
 ## Color Classes
-- For each color (`primary`, `secondary`, `error`, `info`):
+- For each color (<span style="color: red;">primary</span> `secondary`, `error`, `info`):
+
+You can use HTML and CSS inline styles to apply colors to specific text elements.
+
+Remember that this approach may not work with all Markdown renderers or platforms, so it's essential to test how it appears in your specific context.
+
 
 ### Text & Background
   - `.text-#{$color}`, `.text-hover-#{$color}`, `.bg-#{$color}`, `.bg-hover-#{$color}`
