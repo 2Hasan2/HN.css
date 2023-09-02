@@ -83,7 +83,7 @@ This is a library for css.
 - `.col-1` to `.col-12`: Column classes with responsive widths.
 
 ## Color Classes
-- For each color (<span style="color: red;">primary</span> `secondary`, `error`, `info`):
+- For each color (<span style="color: red;">`primary`</span> `secondary`, `error`, `info`):
 
 You can use HTML and CSS inline styles to apply colors to specific text elements.
 
