@@ -5,7 +5,7 @@ This is a library for css.
 ## Usage
 
 ```html
-<link rel="stylesheet" href="https://raw.githubusercontent.com/2Hasan2/HN.css/main/css/HN.css" />
+<link rel="stylesheet" href="https://2hasan2.github.io/HN.css/HN.css" />
 ```
 
 ## how to use
