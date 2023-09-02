@@ -2,12 +2,6 @@
 
 This is a library for css.
 
-## Installation
-
-```bash
-npm install hn-library
-```
-
 ## Usage
 
 ```html
